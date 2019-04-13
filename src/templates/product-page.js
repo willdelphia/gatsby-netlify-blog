@@ -114,7 +114,9 @@ ProductPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
   heading: PropTypes.string,
+  heading2: PropTypes.string,
   description: PropTypes.string,
+  Description2: PropTypes.string,
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
