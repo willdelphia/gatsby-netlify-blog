@@ -145,9 +145,9 @@ const ProductPage = ({ data }) => {
         image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
-        heading2={frontmatter.heading}
+        heading2={frontmatter.heading2}
         description={frontmatter.description}
-        description2={frontmatter.description}
+        description2={frontmatter.description2}
         intro={frontmatter.intro}
         main={frontmatter.main}
         testimonials={frontmatter.testimonials}
