@@ -116,7 +116,7 @@ ProductPageTemplate.propTypes = {
   heading: PropTypes.string,
   heading2: PropTypes.string,
   description: PropTypes.string,
-  Description2: PropTypes.string,
+  description2: PropTypes.string,
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
@@ -145,7 +145,9 @@ const ProductPage = ({ data }) => {
         image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
+        heading2={frontmatter.heading}
         description={frontmatter.description}
+        description2={frontmatter.description}
         intro={frontmatter.intro}
         main={frontmatter.main}
         testimonials={frontmatter.testimonials}
@@ -179,7 +181,9 @@ export const productPageQuery = graphql`
           }
         }
         heading
+        heading2
         description
+        description2
         intro {
           blurbs {
             image {
