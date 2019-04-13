@@ -47,6 +47,10 @@ export const ProductPageTemplate = ({
               <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
               <p>{description}</p>
             </div>
+            <div className="column is-7 is-offset-1">
+              <h3 className="has-text-weight-semibold is-size-2">Heading2: {heading2}</h3>
+              <p>Description2: {description2}</p>
+            </div>
           </div>
           <div className="columns">
             <div className="column is-10 is-offset-1">
