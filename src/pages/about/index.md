@@ -10,7 +10,7 @@ Coffee is a small tree or shrub that grows in the forest understory in its wild 
 
 ![A cat we found](/img/screen-shot-2019-03-25-at-8.56.14-pm.png "A cat we found")
 
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+This is the new content.
 
 ### Sustainable farming
 
