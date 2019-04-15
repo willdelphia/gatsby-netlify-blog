@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: This is something huh.
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+title: A CHANGE THAT HAS HAPPENED
+image: /img/screen-shot-2019-04-15-at-5.12.11-pm.png
+heading: 'Great coffee with a asdsfasdasdfadsa da dssfadf '
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
